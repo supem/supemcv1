@@ -23,10 +23,13 @@ sections:
       title: Skills & Hobbies
       username: admin
       text: |-
-      Python; Pytorch; Django; MySQL; Data collection and analysis skills.
-      Project management skills; Cooperative Spirit.
-      Reading; Eating.
+        Python; Pytorch; Django; MySQL; Data collection and analysis skills.
+
+        Project management skills; Cooperative Spirit.
+
+        Reading; Eating.
     design:
+      columns: '1'
       show_skill_percentage: false
   - block: resume-awards
     content:
@@ -35,8 +38,11 @@ sections:
       # subtitle: ''
       text: |-
         Reviewer for:
-        Journal of Neuropsychological Rehabilitation SCI Q2                                        
+
+        Journal of Neuropsychological Rehabilitation SCI Q2   
+
         Journal of International Wound Journal SCI Q1  
+
         Engineering Applications of Artificial Intelligence  SCI Q1        
     design:
       columns: '1'
